@@ -1,4 +1,4 @@
 # Echen a Alby
 ***
-[-EnlaceatareaJose-](Jose Luis Mateos.md)
+[Enlace a tarea Jose](Jose Luis Mateos.md)
 # Echen a Todos
