@@ -1,6 +1,5 @@
 # Echen a Alby
 ***
-[-EnlaceatareaJose-](Jose Luis Mateos.md)
+[-EnlaceatareaJose-](/joseluismateos.md)
 [-EnlaceFicheroDaniel-](./daniel.md)
-[Ver otro documento](./Jose Luis Mateos.md)
 # Echen a Todos
