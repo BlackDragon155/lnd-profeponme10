@@ -1,5 +1,7 @@
 # 🐯 Tigres Albinos
 
+![Imagen](img/White_Tiger)
+
 Los **tigres albinos** son variantes extremadamente raras del tigre de Bengala (Panthera tigris tigris) que poseen una particularidad genética que da como resultado su pelaje blanco, ojos azules y rayas negras o grises. Estos tigres, también conocidos como *tigres blancos*, no deben confundirse con los tigres albinos verdaderos, ya que los tigres albinos carecen completamente de pigmentación y suelen tener ojos rojos.
 
 ## 📜 Origen y Genética
