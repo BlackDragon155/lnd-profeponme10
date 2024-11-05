@@ -1,3 +1,5 @@
+![Imagen](./images/Albin.png)
+
 # 📚 Introducción a Markdown 
 
 ## ❓ Preguntas
