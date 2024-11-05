@@ -1,6 +1,6 @@
 # Introducción a Markdown - Daniel y José Luis
 ## Actividad de Investigación
-
+![ImagenPuestaPorDani](./images/jose.png)
 ### **1. ¿Qué es Markdown y para qué se utiliza?**
 
 
